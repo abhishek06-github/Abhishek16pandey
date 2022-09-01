@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhishek16pandey
 - 👀 I’m interested in Artificial Intelligence.
-- 🌱 I’m currently learning Machine Learning.
+- 🌱 I’m currently learning Machine Learning and DevOps.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
